@@ -9,7 +9,7 @@ This project is based on a company named Electro Grid (EG) Who maintains the pow
 
 # Screenshot of the UI
 
-![](UI/form.png)
+![](UI/form.jpg)
 
-![](UI/table.png)
+![](UI/table.jpg)
 

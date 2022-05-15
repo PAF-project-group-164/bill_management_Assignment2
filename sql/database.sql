@@ -30,7 +30,7 @@ SET time_zone = "+00:00";
 CREATE TABLE IF NOT EXISTS `billingapi` (
   `bid` int(6) NOT NULL AUTO_INCREMENT,
   `uid` varchar(200) NOT NULL,
-  `usage` varchar(200) NOT NULL,
+  `busage` varchar(200) NOT NULL,
   `value` varchar(200) NOT NULL,
   `vat` varchar(200) NOT NULL,
   `total` varchar(200) NOT NULL,
